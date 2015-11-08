@@ -1,0 +1,23 @@
+name: zeekay
+favicon: null
+layout_spectrum: 0.42540895589627326
+typography_spectrum: 0.20442760572768748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3126656406093389
+  lightness: 0.7683238419704139
+  saturation: 0.8152208370156586
+  rhythmicContrast: 0.5588956414721906
+purpose: []
